@@ -1,7 +1,9 @@
 # WebScraper
 
 Compile:
-$ gcc –Wall get_links_rg.c string_bs.c –o get_links_rg 
+
+$ gcc –Wall get_links_rg.c string_bs.c –o get_links_rg
+
 $ gcc –Wall test_links_rg.c string_rg.c –o test_links_rg 
 
 An example on how to execute the program:
